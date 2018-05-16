@@ -194,6 +194,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: 0.1 Jawara eGov
+      url: /mydoc_release_perancangan
+      output: web, pdf
+
     - title: 6.0 Release notes
       url: /mydoc_release_notes_60.html
       output: web, pdf
