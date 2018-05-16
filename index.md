@@ -1,6 +1,6 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
+title: "Report Analyst System Tahun 2018"
+keywords: jawara eGov
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
@@ -175,8 +175,7 @@ The sidebar data file uses a specific YAML syntax that you must follow. Follow t
 ```yaml
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Perencanaan
   folders:
   - title: Overview
     output: web, pdf
